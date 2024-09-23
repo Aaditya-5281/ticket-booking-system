@@ -31,4 +31,19 @@ Welcome to the Train Booking System! This application allows users to sign up, l
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/train-booking-system.git
+   git clone https://github.com/Aaditya-5281/ticket-booking-system.git
+
+
+2. Navigate to the project directory:
+   ```bash
+   cd ticket-booking-system
+
+
+3. Compile the Java files:
+   ```bash
+   javac -d bin src/ticket/booking/*.java src/ticket/booking/entities/*.java src/ticket/booking/service/*.java src/ticket/booking/util/*.java
+
+4. Run the application:
+   ```bash
+   java -cp bin ticket.booking.App
+
