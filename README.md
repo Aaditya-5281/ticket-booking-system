@@ -7,9 +7,6 @@ Welcome to the Train Booking System! This application allows users to sign up, l
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
 
 ## Features
 
